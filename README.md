@@ -28,7 +28,7 @@ Components
      achieving quasilinear compute overhead
  - [finitefield/](finitefield/): a generic library for finite fields, and polynomials defined over them
      This library is adapted from posts by Jeremy Kun.
-     See [A Programmer's Introudction to Mathematics](https://github.com/pim-book/programmers-introduction-to-mathematcs)
+     See [A Programmer's Introudction to Mathematics](https://github.com/pim-book/programmers-introduction-to-mathematics)
  and [Programming with Finite Fields](https://jeremykun.com/2014/03/13/programming-with-finite-fields/)
  - [polynomial_evalrep.py](polynomial_evalrep.py):
    -- an alternative polynomial abstraction, using evaluation at roots of unity, rather than coefficients.
